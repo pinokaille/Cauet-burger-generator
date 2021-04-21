@@ -39,11 +39,11 @@ fn main(){
 
 
     for i in 0..100 {
-        loading.text(format!("🥩 Génération du steak {}", i));
+        loading.text(format!("🥩 Génération des steaks {}", i));
         thread::sleep(Duration::from_millis(50));
     }
 
-    loading.success("steak : OK");
+    loading.success("steaks : OK");
 
     for i in 0..100 {
         loading.text(format!("🥬 Génération de la salade {}", i));
