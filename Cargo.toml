@@ -1,0 +1,12 @@
+[package]
+name = "cauetburgergen"
+version = "0.1.0"
+authors = ["pinokaille"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+figlet-rs = "0.1.3"
+loading = "0.1.2"
+open = "1.7.0"
