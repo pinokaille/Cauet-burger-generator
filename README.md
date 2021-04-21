@@ -6,3 +6,6 @@ Le cauet burger gen est un outils très puissant capable de générer des cauet 
 
 # information importante 
 le développement de cet outil a pris 5 années consécutives 
+
+# Bug 
+Certains caractères peuvent être bogués sur Le Windows
